@@ -22,7 +22,7 @@ public class ATMINTERFACE{
         String Username = sc.nextLine();
         System.out.println("Enter the password:");
         String Password = sc.nextLine();
-        if (Username.equals("MADHUKUMAR") && (Password.equals("madhu"))) {
+        if (Username.equals("CHAITANYA") && (Password.equals("CHAITANYA@123"))) {
             System.out.println("Logged successfully");
         } else {
             System.out.println("Incorrect username and password");
